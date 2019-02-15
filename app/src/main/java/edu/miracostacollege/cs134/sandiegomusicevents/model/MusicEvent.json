@@ -33,52 +33,52 @@
 
     {
       "artist": "Ariana Grande",
-      "date": "",
-      "day": "",
-      "time": "",
-      "venue": "",
-      "city": "",
-      "state": ""
+      "date": "April 12",
+      "day": "Friday",
+      "time": "3:30 AM",
+      "venue": "Coachella 2019",
+      "city": "Indio",
+      "state": "CA"
     },
 
     {
       "artist": "Goo Goo Dolls",
-      "date": "",
-      "day": "",
-      "time": "",
-      "venue": "",
-      "city": "",
-      "state": ""
+      "date": "June 14",
+      "day": "Friday",
+      "time": "7:00 PM",
+      "venue": "North Island Amphitheatre",
+      "city": "Chula Vista",
+      "state": "CA"
     },
 
     {
       "artist": "Rebelution",
-      "date": "",
-      "day": "",
-      "time": "",
-      "venue": "",
-      "city": "",
-      "state": ""
+      "date": "June 15",
+      "day": "Saturday",
+      "time": "7:00 PM",
+      "venue": "North Island Amphitheatre",
+      "city": "Chula Vista",
+      "state": "CA"
     },
 
     {
       "artist": "",
-      "date": "",
-      "day": "",
-      "time": "",
-      "venue": "",
-      "city": "",
-      "state": ""
+      "date": "June 23",
+      "day": "Sunday",
+      "time": "7:00 PM",
+      "venue": "North Island Amphitheatre",
+      "city": "Chula Vista",
+      "state": "CA"
     },
 
     {
       "artist": "",
-      "date": "",
-      "day": "",
-      "time": "",
-      "venue": "",
-      "city": "",
-      "state": ""
+      "date": "July 23",
+      "day": "Tuesday",
+      "time": "7:30 PM",
+      "venue": "North Island Amphitheatre",
+      "city": "Chula Vista",
+      "state": "CA"
     }
   ]
 }
