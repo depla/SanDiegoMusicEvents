@@ -10,11 +10,25 @@ import android.widget.ListView;
 
 import edu.miracostacollege.cs134.sandiegomusicevents.model.MusicEvent;
 
+/**
+ * Shows a list of artists to choose from
+ *
+ * @author Dennis La
+ * @version 1.0
+ */
+
 public class MainActivity extends ListActivity {
 
     private ListView eventsListView;
 
 
+    /**
+     * extract data from MusicEvent.java and go to the details activity
+     * @param l
+     * @param v
+     * @param position
+     * @param id
+     */
     //position is what the user clicked ie ariana grande is position 3
     @Override
     protected void onListItemClick(ListView l, View v, int position, long id) {
@@ -34,6 +48,10 @@ public class MainActivity extends ListActivity {
 
     }
 
+    /**
+     * inflates the activity with a listview
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

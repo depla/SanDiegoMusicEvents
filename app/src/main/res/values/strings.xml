@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">San Diego Music Events</string>
+    <string name="the_artist">The artist</string>
+    <string name="sample_text">TextView</string>
 </resources>

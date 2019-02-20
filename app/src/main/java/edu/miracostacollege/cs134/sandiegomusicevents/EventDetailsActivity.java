@@ -13,12 +13,24 @@ import android.widget.TextView;
 import java.io.IOException;
 import java.io.InputStream;
 
+/**
+ * Shows a details of chosen artist's music event
+ *
+ * @author Dennis La
+ * @version 1.0
+ */
+
 public class EventDetailsActivity extends AppCompatActivity {
 
     private ImageView eventImageView;
     private TextView eventTitleTextView;
     private TextView eventDetailsTextView;
 
+    /**
+     * extracts data from intent and updates the textviews. then displays an image from the assets
+     *
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
